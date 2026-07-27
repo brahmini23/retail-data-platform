@@ -1,0 +1,24 @@
+product_id,category_id,product_name,price
+1,1,Wireless Mouse,29.99
+2,1,Mechanical Keyboard,89.99
+3,1,Gaming Monitor,299.99
+4,1,Bluetooth Speaker,49.99
+5,1,USB-C Hub,39.99
+6,2,Women Summer Dress,39.99
+7,2,Women Spring Top,19.99
+8,2,Kids Back to School Top,9.99
+9,5,Running Shoes,79.99
+10,5,Yoga Mat,24.99
+11,5,Dumbbells,59.99
+12,3,Cookware Set,149.99
+13,3,Coffee Maker,89.99
+14,4,Atomic Habits,10.0
+15,4,Life of Pi,7.99
+16,6,Maybelline Foundation,15.99
+17,6,Mac Ruby Lipstick,55.0
+18,8,Lettuce,3.99
+19,8,Organic Spinach,5.99
+20,9,3inch Binder,5.99
+21,7,Flower Lego Set,13.99
+22,7,Barbie Holiday Doll,50.99
+23,10,Dog squich toy,8.99
